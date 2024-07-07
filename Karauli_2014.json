@@ -62,7 +62,7 @@
   ],
   "assets": {
     "data": {
-      "href": "https://raw.githubusercontent.com/craigdsouza/indiasat/master//Karauli_2014_LULC_10m.tif",
+      "href": "https://raw.githubusercontent.com/craigdsouza/indiasat/master/Karauli_2014_LULC_10m.tif",
       "type": "image/tiff"
     }
   },

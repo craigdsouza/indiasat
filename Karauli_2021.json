@@ -46,23 +46,23 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://github.com/craigdsouza/indiasat/raw/master/catalog.json",
+      "href": "https://raw.githubusercontent.com/craigdsouza/indiasat/master/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://github.com/craigdsouza/indiasat/raw/master/catalog.json",
+      "href": "https://raw.githubusercontent.com/craigdsouza/indiasat/master/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://github.com/craigdsouza/indiasat/blob/master/Karauli_2021.json",
+      "href": "https://raw.githubusercontent.com/craigdsouza/indiasat/master/Karauli_2021.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "data": {
-      "href": "https://github.com/craigdsouza/indiasat/raw/master/Karauli_2021_LULC_10m.tif",
+      "href": "https://raw.githubusercontent.com/craigdsouza/indiasat/master//Karauli_2021_LULC_10m.tif",
       "type": "image/tiff"
     }
   },

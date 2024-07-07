@@ -1,0 +1,63 @@
+{
+  "type": "Catalog",
+  "id": "indiasat-karauli",
+  "stac_version": "1.0.0",
+  "description": "A simple STAC catalog example of IndiaSAT LULC for Karauli, India",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2022/Karauli_2022.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2021/Karauli_2021.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2019/Karauli_2019.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2016/Karauli_2016.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2017/Karauli_2017.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2015/Karauli_2015.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2020/Karauli_2020.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2018/Karauli_2018.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2014/Karauli_2014.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

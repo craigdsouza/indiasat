@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Karauli_2020",
+  "properties": {
+    "start_date": "2020-07-01",
+    "end_date": "2021-06-30",
+    "lulc_classes": {
+      "2": "water",
+      "3": "builtUp",
+      "4": "barren",
+      "6": "forest",
+      "9": "single crop",
+      "10": "double crop",
+      "12": "triple crop"
+    },
+    "datetime": "2020-07-01T00:00:00Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          77.38653796034554,
+          26.036231205749736
+        ],
+        [
+          77.38653796034554,
+          26.9664366824555
+        ],
+        [
+          76.44618152092922,
+          26.9664366824555
+        ],
+        [
+          76.44618152092922,
+          26.036231205749736
+        ],
+        [
+          77.38653796034554,
+          26.036231205749736
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "/content/drive/My Drive/Data/IndiaSAT_LULC/IITD_Version2_Draft/Karauli/Karauli_2020.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "data": {
+      "href": "https://github.com/craigdsouza/indiasat/raw/master/Karauli_2020_LULC_10m.tif",
+      "type": "image/tiff"
+    }
+  },
+  "bbox": [
+    76.44618152092922,
+    26.036231205749736,
+    77.38653796034554,
+    26.9664366824555
+  ],
+  "stac_extensions": []
+}
